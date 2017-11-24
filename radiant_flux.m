@@ -4,6 +4,8 @@ function F = radiant_flux(L, r)
     % Jeremy Penn
     % 23/11/17
     %
+    % function F = radiant_flux(L, r)
+    %
     % Inputs:   o L     - Stellar luminosity [W]
     %           o r     - Distance to the source [AU]
     %

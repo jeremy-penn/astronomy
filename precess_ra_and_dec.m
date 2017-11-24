@@ -4,6 +4,8 @@ function precess_ra_and_dec(t, ra, dec)
     % Jeremy Penn
     % 23/11/17
     %
+    % function precess_ra_and_dec(t, ra, dec)
+    %
     % Input:    o t     - The time in fractions of year since J2000
     %           o ra    - The J2000 RA in HH:MM:SS string
     %           o dec   - The J2000 DEC in [deg, min, sec] vector form
