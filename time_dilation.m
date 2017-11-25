@@ -13,7 +13,7 @@ function dt = time_dilation(t, u)
     %
     
     %% constants
-    c  = 2.988e8;                           % [m/s] speed of light
+    c  = 2.998e8;                           % [m/s] speed of light
     g  = 1 / sqrt( 1 - (dot(u,u)/c^2) );    % gamma factor
     
     %% time dilation
